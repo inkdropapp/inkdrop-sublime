@@ -4,7 +4,7 @@
   "version": "0.1.0",
   "description": "Sublime Text-like keybindings",
   "keywords": [],
-  "repository": "https://github.com/inkdropapp/sublime",
+  "repository": "https://github.com/inkdropapp/inkdrop-sublime",
   "license": "MIT",
   "engines": {
     "inkdrop": "^5.x"
