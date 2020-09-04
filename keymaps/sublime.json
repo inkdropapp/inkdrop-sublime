@@ -54,9 +54,8 @@
     "shift-cmd-]": "sublime:unfold",
     "cmd-i": "sublime:find-incremental",
     "shift-cmd-i": "sublime:find-incremental-reverse",
-    "cmd-h": "sublime:replace",
-    "f3": "sublime:find-next",
-    "shift-f3": "sublime:find-prev"
+    "f3": "editor:find-next",
+    "shift-f3": "editor:find-prev"
   },
   ".platform-linux .CodeMirror.sublime-mode textarea, .platform-win32 .CodeMirror.sublime-mode textarea": {
     "shift-tab": "sublime:indent-less",
@@ -114,7 +113,7 @@
     "ctrl-i": "sublime:find-incremental",
     "shift-ctrl-i": "sublime:find-incremental-reverse",
     "ctrl-h": "sublime:replace",
-    "f3": "sublime:find-next",
-    "shift-f3": "sublime:find-prev"
+    "f3": "editor:find-next",
+    "shift-f3": "editor:find-prev"
   }
 }
