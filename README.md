@@ -14,3 +14,7 @@ Install the plugin via CLI:
 ```sh
 ipm install sublime
 ```
+
+## Changelog
+
+See [the releases page](https://github.com/inkdropapp/inkdrop-sublime/releases).
