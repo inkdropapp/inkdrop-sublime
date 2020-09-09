@@ -112,7 +112,7 @@
     "shift-ctrl-]": "sublime:unfold",
     "ctrl-i": "sublime:find-incremental",
     "shift-ctrl-i": "sublime:find-incremental-reverse",
-    "ctrl-h": "sublime:replace",
+    "ctrl-h": "editor:replace",
     "f3": "editor:find-next",
     "shift-f3": "editor:find-prev"
   }
