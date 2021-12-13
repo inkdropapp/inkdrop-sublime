@@ -1,12 +1,11 @@
 root: true
-parser: babel-eslint
+plugins:
+  - react
 extends:
-  - plugin:prettier/recommended
-env:
-  browser: true
-  node: true
-globals:
-  inkdrop: true
+  - plugin:react/recommended
+  - prettier
+parser: "@babel/eslint-parser"
+env: {}
 rules:
   no-useless-escape: 0
   prefer-const: 2
